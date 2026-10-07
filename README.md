@@ -6,6 +6,9 @@ An academic data visualisation project analysing 336 songs from ABBA and Fleetwo
 
 This project examines five decades of music (1970s-2020s) across 12 research questions about streaming performance, musical characteristics, and success factors.
 
+**[Live dashboard](https://abbavsfleetwoodmacspotifyperformance-zqupoxnwac6nflxxuizkwf.streamlit.app/)** 
+![Dashboard screenshot](dashboard.png)
+
 ## Key Findings
 
 - ABBA demonstrates 49% higher popularity than Fleetwood Mac (43.8 vs 29.4, p < 0.001)
