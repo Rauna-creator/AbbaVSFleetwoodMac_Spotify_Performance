@@ -45,8 +45,8 @@ This project examines five decades of music (1970s-2020s) across 12 research que
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/spotify-analysis.git
-cd spotify-analysis
+git clone https://github.com/Rauna-creator/AbbaVSFleetwoodMac_Spotify_Performance.git
+cd AbbaVSFleetwoodMac_Spotify_Performance
 pip install -r requirements.txt
 streamlit run app.py
 ```
